@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "snake_game",
+    "slug": "snake_game",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
